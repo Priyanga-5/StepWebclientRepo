@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="STEP WebClient Automation Test suite" duration-ms="301053" started-at="2021-06-18T13:22:30 IST" finished-at="2021-06-18T13:27:31 IST">
+    <groups>
+    </groups>
+    <test name="STEP WebClient Application Test Cases" duration-ms="301053" started-at="2021-06-18T13:22:30 IST" finished-at="2021-06-18T13:27:31 IST">
+      <class name="com.step.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="setUp" is-config="true" duration-ms="35002" started-at="2021-06-18T13:25:37 IST" finished-at="2021-06-18T13:26:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="verifyHomePageTitleTest" duration-ms="7" started-at="2021-06-18T13:26:12 IST" finished-at="2021-06-18T13:26:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="tearDown" is-config="true" duration-ms="673" started-at="2021-06-18T13:26:12 IST" finished-at="2021-06-18T13:26:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="setUp" is-config="true" duration-ms="35658" started-at="2021-06-18T13:26:12 IST" finished-at="2021-06-18T13:26:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserNameTextTest()[pri:2, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="verifyUserNameTextTest" duration-ms="1125" started-at="2021-06-18T13:26:48 IST" finished-at="2021-06-18T13:26:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="tearDown" is-config="true" duration-ms="676" started-at="2021-06-18T13:26:49 IST" finished-at="2021-06-18T13:26:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="setUp" is-config="true" duration-ms="35496" started-at="2021-06-18T13:26:50 IST" finished-at="2021-06-18T13:27:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySettingslinktest()[pri:3, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="verifySettingslinktest" duration-ms="5083" started-at="2021-06-18T13:27:25 IST" finished-at="2021-06-18T13:27:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySettingslinktest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.HomePageTest@58c1670b]" name="tearDown" is-config="true" duration-ms="804" started-at="2021-06-18T13:27:30 IST" finished-at="2021-06-18T13:27:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.step.qa.testcases.HomePageTest -->
+      <class name="com.step.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="setUp" is-config="true" duration-ms="18974" started-at="2021-06-18T13:22:30 IST" finished-at="2021-06-18T13:22:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="loginPageTitleTest" duration-ms="8" started-at="2021-06-18T13:22:49 IST" finished-at="2021-06-18T13:22:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="650" started-at="2021-06-18T13:22:49 IST" finished-at="2021-06-18T13:22:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="setUp" is-config="true" duration-ms="21727" started-at="2021-06-18T13:22:50 IST" finished-at="2021-06-18T13:23:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="stepLogoImageTest()[pri:2, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="stepLogoImageTest" duration-ms="108" started-at="2021-06-18T13:23:11 IST" finished-at="2021-06-18T13:23:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="680" started-at="2021-06-18T13:23:12 IST" finished-at="2021-06-18T13:23:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="setUp" is-config="true" duration-ms="32659" started-at="2021-06-18T13:23:12 IST" finished-at="2021-06-18T13:23:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EmptyLoginTest()[pri:3, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="EmptyLoginTest" duration-ms="132" started-at="2021-06-18T13:23:45 IST" finished-at="2021-06-18T13:23:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="725" started-at="2021-06-18T13:23:45 IST" finished-at="2021-06-18T13:23:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="setUp" is-config="true" duration-ms="35028" started-at="2021-06-18T13:23:46 IST" finished-at="2021-06-18T13:24:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="IncorrectEmailidTest()[pri:4, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="IncorrectEmailidTest" duration-ms="299" started-at="2021-06-18T13:24:21 IST" finished-at="2021-06-18T13:24:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IncorrectEmailidTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="730" started-at="2021-06-18T13:24:21 IST" finished-at="2021-06-18T13:24:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="setUp" is-config="true" duration-ms="34765" started-at="2021-06-18T13:24:22 IST" finished-at="2021-06-18T13:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="IncorrectPinTest()[pri:5, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="IncorrectPinTest" duration-ms="1410" started-at="2021-06-18T13:24:57 IST" finished-at="2021-06-18T13:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IncorrectPinTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="717" started-at="2021-06-18T13:24:58 IST" finished-at="2021-06-18T13:24:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="setUp" is-config="true" duration-ms="36893" started-at="2021-06-18T13:24:59 IST" finished-at="2021-06-18T13:25:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:6, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="loginTest" duration-ms="312" started-at="2021-06-18T13:25:36 IST" finished-at="2021-06-18T13:25:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.step.qa.testcases.LoginPageTest@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="664" started-at="2021-06-18T13:25:36 IST" finished-at="2021-06-18T13:25:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.step.qa.testcases.LoginPageTest -->
+    </test> <!-- STEP WebClient Application Test Cases -->
+  </suite> <!-- STEP WebClient Automation Test suite -->
+</testng-results>
